@@ -15,8 +15,6 @@
 
   💡 Consistent Practice • Problem Solving • Interview Preparation • Competitive Programming
 
-  <br>
-
   ## 💻 Programming Languages Used
 
   <p>
