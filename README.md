@@ -4,11 +4,10 @@
 
 # 🚀 GeeksforGeeks DSA - Step by Step Learning 2k26
 
-**👨‍🎓 Learner:** **Shriram Lahane**  
 **🏫 Institution:** Sinhgad College of Engineering (SCOE), Pune
 
 📚 Following the **GeeksforGeeks DSA Learning Path 2k26** to master **Data Structures & Algorithms**.
-
+<br></br>
 💻 **Languages**
 
 <p>
