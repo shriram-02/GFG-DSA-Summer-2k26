@@ -32,3 +32,8 @@
 </p>
 
 </div>
+
+<h2>📌 Overview</h2>
+<p>
+  🚀 <strong>GeeksforGeeks DSA – Step by Step Learning 2k26 SkillsUp Summer</strong> is a dedicated initiative aimed at helping learners strengthen their foundations in <strong>Data Structures and Algorithms (DSA)</strong> through a structured, progressive approach. This repository documents my journey of solving problems, practicing concepts, and building efficiency in <strong>coding and problem-solving</strong>. The program emphasizes <strong>daily practice</strong>, <strong>concept clarity</strong>, and <strong>hands-on implementation</strong>, ensuring that learners move from basics to advanced topics in a systematic way. By following this step-by-step learning path, participants not only enhance their <strong>logical thinking</strong> and <strong>coding speed</strong> but also prepare effectively for <strong>technical interviews, competitive programming, and real-world applications</strong>. The <strong>SkillsUp Summer 2k26</strong> initiative reflects a commitment to continuous growth, discipline, and mastery of core computer science fundamentals.
+</p>
